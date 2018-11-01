@@ -15,7 +15,8 @@ public class G7 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello world 1");// TODO code application logic here
+        System.out.println("Hello world 1");
+        System.out.println("Hello world 1");
     }
     
 }
